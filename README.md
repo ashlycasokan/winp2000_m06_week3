@@ -38,9 +38,9 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
 |----------------|------------------|--------------------------------------------------|
 | **Ubuntu**     | Beginners         | Easy to use, strong community support            |
 | **Fedora**     | Developers        | Cutting-edge software, backed by Red Hat         |
-| **Linux Mint** | General Users     | Windows-like interface, pre-installed software   |
-| **Zorin OS**   | Windows Switchers | Familiar desktop environment for Windows users   |
-| **elementary OS** | MacOS Switchers  | Sleek design, similar to macOS                   |
+| **Kali Linux** | Security Professionals     |Focused on penetration testing and security auditing tools   |
+| **Debian**   | Servers, Stability Seekers | Rock-solid stability, large software repositories   |
+| **CentOS** | Enterprise/Servers  | Stable and free, upstream source from Red Hat Enterprise Linux (RHEL)     |
 
 ---
 
