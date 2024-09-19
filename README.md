@@ -45,10 +45,15 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
 ---
 
 ### Key Differences Between Linux Distributions: 
- **Ubuntu:** This is one of the easiest versions of Linux to use, especially for beginners. It has a big community that helps you when you're stuck, and it gets regular updates. You also get access to lots of software. 
- **Fedora:** If you're a developer or someone who likes working with the latest tech, Fedora is perfect. It’s always up-to-date with the newest features and is supported by Red Hat, a big name in the tech world.
+ **Ubuntu:** This is one of the easiest versions of Linux to use, especially for beginners. It has a big community that helps you when you're stuck, and it gets regular updates. You also get access to lots of software.  
+ 
+ **Fedora:** If you're a developer or someone who likes working with the latest tech, Fedora is perfect. It’s always up-to-date with the newest features and is supported by Red Hat, a big name in the tech world.  
+ 
  **Debian:** Known for being super reliable and stable, Debian is often used on servers where things need to work smoothly for a long time without problems.  
- **CentOS:** This version is made for businesses and servers. It’s known for being stable and offers long-term support, which means fewer updates but more reliability.
+ 
+ **CentOS:** This version is made for businesses and servers. It’s known for being stable and offers long-term support, which means fewer updates but more reliability.  
+ 
+ 
 ---
 
 ## Section 3: Basic Linux Commands
