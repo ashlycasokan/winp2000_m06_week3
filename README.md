@@ -16,7 +16,7 @@ This document provides an overview of **Linux**, including its history, key dist
 
 ---
 
-## 🏛️ Linux History
+## Section 1:🏛️ Linux History
 
 > **"The Linux kernel is the beating heart of all Linux distributions."**
 
@@ -24,7 +24,7 @@ This document provides an overview of **Linux**, including its history, key dist
 
 ---
 
-## 🛠️ Linux Distributions
+## Section 2:🛠️ Linux Distributions
 
 Linux distributions, commonly called **distros**, are variations of Linux that cater to different users and purposes. Below are some of the most popular distributions, each tailored to different user needs.
 
