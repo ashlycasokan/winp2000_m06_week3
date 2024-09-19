@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Overview
+## 🚀 Introduction 
 
 This document provides an overview of **Linux**, including its history, key distributions, and essential commands. By the end of this guide, you'll understand the significance of Linux and its importance in modern computing.
 
@@ -50,7 +50,7 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
  
 ---
 
-## Section 3: Basic Linux Commands
+## Section 3: 💻 Basic Linux Commands
 
 Here are some essential Linux commands to get started:
 
@@ -76,7 +76,7 @@ Here are some essential Linux commands to get started:
 
 ---
 
-## Conclusion 
+## 🔍 Conclusion 
 
 This assignment provides an excellent opportunity for team members to improve their understanding of Linux, covering its history, various distributions and basic commands. By creating a Git repository and documenting these learnings in a structured README.md file, team members will not only gain valuable skills in Linux but also in using Git for version control. Completing this task ensures a deeper appreciation for Linux's role in modern computing, while also reinforcing collaboration and technical writing abilities using Markdown.  
 
