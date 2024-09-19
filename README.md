@@ -28,7 +28,7 @@ This document provides an overview of **Linux**, including its history, key dist
 
 Linux distributions, commonly called **distros**, are variations of Linux that cater to different users and purposes. Below are some of the most popular distributions, each tailored to different user needs.
 
-| Distro         | Target Audience  | Features                                         |
+| Distributions         | Target Audience  | Features                                         |
 |----------------|------------------|--------------------------------------------------|
 | **Ubuntu**     | It is for Beginners         | It is very Easy to use and it has strong community support            |
 | **Fedora**     | Mainly used by Developers        | it is a Cutting-edge software backed by Red Hat         |
@@ -54,7 +54,7 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
 
 Here are some essential Linux commands to get started:
 
-| Command   | Description                                      |
+| Basic Command   | Description                                      |
 |-----------|--------------------------------------------------|
 | `sudo`    | Runs a command as a superuser                    |
 | `ls`      | Lists files and directories in the current dir.  |
@@ -78,5 +78,5 @@ Here are some essential Linux commands to get started:
 
 ## Conclusion 
 
-This document aims to improve team members' understanding of Linux, covering its history, distributions, and essential commands. Creating a Git repository and documenting these learnings using Markdown helps gain valuable skills in Linux, Git, and version control, while fostering collaboration and technical writing skills.
+This assignment provides an excellent opportunity for team members to improve their understanding of Linux, covering its history, various distributions and basic commands. By creating a Git repository and documenting these learnings in a structured README.md file, team members will not only gain valuable skills in Linux but also in using Git for version control. Completing this task ensures a deeper appreciation for Linux's role in modern computing, while also reinforcing collaboration and technical writing abilities using Markdown.
 
