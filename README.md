@@ -44,11 +44,11 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
 
 ---
 
-### Describe the differences between various distributions. 
- Linux Mint is built on Ubuntu/Debian and designed for simplicity, making it perfect for users switching from Windows. It features the Cinnamon desktop, comes with pre-installed software and media codecs, and offers a more familiar interface for Windows users. 
-
-  Zorin OS is also based on Ubuntu and focuses on providing an easy transition for users migrating from Windows or macOS. It offers a polished, customizable interface that mimics those systems, making it highly user-friendly, though it has a smaller community and some paid features. 
-
+### Key Differences Between Linux Distributions: 
+ **Ubuntu:** This is one of the easiest versions of Linux to use, especially for beginners. It has a big community that helps you when you're stuck, and it gets regular updates. You also get access to lots of software. 
+ **Fedora:** If you're a developer or someone who likes working with the latest tech, Fedora is perfect. It’s always up-to-date with the newest features and is supported by Red Hat, a big name in the tech world.
+ **Debian:** Known for being super reliable and stable, Debian is often used on servers where things need to work smoothly for a long time without problems.  
+ **CentOS:** This version is made for businesses and servers. It’s known for being stable and offers long-term support, which means fewer updates but more reliability.
 ---
 
 ## Section 3: Basic Linux Commands
