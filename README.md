@@ -36,11 +36,11 @@ Linux distributions, commonly called **distros**, are variations of Linux that c
 
 | Distro         | Target Audience  | Features                                         |
 |----------------|------------------|--------------------------------------------------|
-| **Ubuntu**     | Beginners         | Easy to use, strong community support            |
-| **Fedora**     | Developers        | Cutting-edge software, backed by Red Hat         |
-| **Kali Linux** | Security Professionals     |Focused on penetration testing and security auditing tools   |
-| **Debian**   | Servers, Stability Seekers | Rock-solid stability, large software repositories   |
-| **CentOS** | Enterprise/Servers  | Stable and free, upstream source from Red Hat Enterprise Linux (RHEL)     |
+| **Ubuntu**     | It is for Beginners         | It is very Easy to use and it has strong community support            |
+| **Fedora**     | Mainly used by Developers        | it is a Cutting-edge software backed by Red Hat         |
+| **Kali Linux** | it is used by Security Professionals     | It Focuses on penetration testing and security auditing tools   |
+| **Debian**   | it is used by Stability Seekers and also in servers | It has Rock-solid stability, large software repositories   |
+| **CentOS** | Used in Enterprise/Servers  | It is Stable and free, upstream source from Red Hat Enterprise Linux (RHEL)     |
 
 ---
 
