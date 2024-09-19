@@ -18,15 +18,9 @@ This document provides an overview of **Linux**, including its history, key dist
 
 ## 🏛️ Linux History
 
-> **"The Linux kernel is the beating heart of all Linux distributions."**  
-> — Linus Torvalds
+> **"The Linux kernel is the beating heart of all Linux distributions."**
 
-Linux was created in **1991** by **Linus Torvalds** after becoming frustrated with the limitations of MINIX. Inspired by the GNU Project launched by **Richard Stallman** in 1983, Torvalds built the **Linux kernel**, which, when combined with GNU components, formed a complete operating system.
-
-### Key Points:
-- **Unix** was developed at **AT&T's Bell Labs** in 1969.
-- **Unix’s** proprietary nature led to the development of free alternatives like GNU and Linux.
-- **Linux** is now widely used in **servers, desktops, and embedded systems**.
+ Linux has its roots in an old operating system called Unix, created in 1969. Unix was powerful but expensive, so only big companies and universities could use it.A programmer named Richard Stallman didn’t like how software was becoming locked down. He started the GNU Project to make a free version of Unix. However, it was missing a core part called the kernel.Linux was released under a special license that made it free for anyone to use, change, and share.Now, Linux is everywhere—from servers that run the internet to Android phones and even supercomputers. It’s one of the most important operating systems in the world.
 
 ---
 
@@ -62,24 +56,23 @@ Here are some essential Linux commands to get started:
 
 | Command   | Description                                      |
 |-----------|--------------------------------------------------|
+| `sudo`    | Runs a command as a superuser                    |
 | `ls`      | Lists files and directories in the current dir.  |
 | `cd`      | Changes the current directory                    |
+| `mv`      | Moves or renames files or directories            |
 | `pwd`     | Prints the current working directory             |
 | `mkdir`   | Creates a new directory                          |
 | `rmdir`   | Removes an empty directory                       |
 | `rm`      | Removes files                                    |
 | `cp`      | Copies files                                     |
-| `mv`      | Moves or renames files or directories            |
+| `free`    | Displays memory usage                            |
 | `touch`   | Creates an empty file or updates file timestamp  |
 | `cat`     | Concatenates and displays file content           |
 | `chmod`   | Changes file or directory permissions            |
 | `ps`      | Displays information about active processes      |
-| `top`     | Shows system processes and resource usage        |
 | `grep`    | Searches for patterns in files                   |
-| `man`     | Displays the manual for a command                |
-| `sudo`    | Runs a command as a superuser                    |
-| `df -h`   | Shows disk space usage                           |
-| `free`    | Displays memory usage                            |
+
+
 
 ---
 
