@@ -82,7 +82,7 @@ This assignment provides an excellent opportunity for team members to improve th
 
 ---
 
-REFERENCE 
+REFERENCE   
 Best Linux distributions for beginners - Zenarmor.com. (2024, September 16). https://www.zenarmor.com/docs/linux-tutorials/best-linux-distributions-for-beginners
 
 
