@@ -78,7 +78,9 @@ Here are some essential Linux commands to get started:
 
 ## Conclusion 
 
-This assignment provides an excellent opportunity for team members to improve their understanding of Linux, covering its history, various distributions and basic commands. By creating a Git repository and documenting these learnings in a structured README.md file, team members will not only gain valuable skills in Linux but also in using Git for version control. Completing this task ensures a deeper appreciation for Linux's role in modern computing, while also reinforcing collaboration and technical writing abilities using Markdown.
+This assignment provides an excellent opportunity for team members to improve their understanding of Linux, covering its history, various distributions and basic commands. By creating a Git repository and documenting these learnings in a structured README.md file, team members will not only gain valuable skills in Linux but also in using Git for version control. Completing this task ensures a deeper appreciation for Linux's role in modern computing, while also reinforcing collaboration and technical writing abilities using Markdown.  
+
+
 
 REFERENCE 
 
